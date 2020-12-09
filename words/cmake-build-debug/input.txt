@@ -1,7 +1,0 @@
-6
-terminator
-department
-epic
-cat
-rapid
-toothpaste
